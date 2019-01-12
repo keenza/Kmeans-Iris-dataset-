@@ -1,14 +1,14 @@
-# Kmeans-Iris-dataset
-L'algorithme de classification non supervisée le kmeans 
+# Kmeans 
+KMeans Clustering for unsupervised Classification
 
 # General description
-Implémentation du code de l'algorithme de kmeans est réalisé en langage Python sous jupyter notebook
-This code is a Python implementation of k-means clustering algorithm.
+This code is a Python implementation of k-means clustering algorithm using jupyter notebook.
 
 # Input
-La base de donnée choisie ici j'ai pris Iris dataset.
-Le nombre de classe k
+- Dataset: - in the first file i choosed The Iris flower data set
+         - in the second i choosed the artificial data set Xclara
+- Nombre of clusters here i have 3 classes for the both files
 
 # Output
-Les centres des classes finaux
-Les classes
+- The clusters Centroides 
+- The clusters of points.
